@@ -1,3 +1,5 @@
 create-your-open-textbook
 preface
 breathe
+eat
+sleep
