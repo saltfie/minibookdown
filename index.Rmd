@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Everything All at Once"
+author: "Lisa Shiota"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
