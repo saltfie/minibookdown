@@ -1,4 +1,5 @@
 # Eat
 
 *Eat food. Not too much. Mostly plants.*
+
 [*In Defense of Food,*](https://michaelpollan.com/books/in-defense-of-food/) by Michael Pollan
